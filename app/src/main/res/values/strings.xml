@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Survivor</string>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="mode">Mode</string>
+    <string name="play">PLAY</string>
+    <string name="textview">TextView</string>
+    <string name="welcome">WELCOME TO SURVIVOR</string>
+    <string name="todo">TODO</string>
+    <string-array name="mode">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+    </string-array>
+</resources>
